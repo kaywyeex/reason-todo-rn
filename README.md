@@ -12,7 +12,7 @@ Run this project:
 
 ```
 npm install
-npm start
-# in another tab
 npm run watch
+# in another tab
+npm start
 ```
